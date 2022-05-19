@@ -1,6 +1,6 @@
 print("This script is intended to swap the values of two data variables using a third temporary variable")
-a=int(input("enter a number"))
-b=int(input("enter second number"))
+a=(input("enter a string"))
+b=(input("enter second string"))
 print("without swapping",a,b)
 '''
 temp=a
